@@ -1,0 +1,126 @@
+body
+{
+    background: #f2f2f2;
+    margin: 0px 0px;
+    font-family:  Arial, Helvetica, sans-serif;
+    color: #000000;
+}
+
+input
+{
+    background: #f2f2f2;
+    width: 280px;
+}
+
+ul
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.header
+{
+    padding: 10px;
+    overflow: hidden;
+}
+
+.nav-btns button
+{
+    background: #e6e6e6;
+    border: 0px;
+    padding: 6px;
+}
+
+.nav-btns button a
+{
+    text-decoration: none;
+    color: #000000;
+}
+
+.nav-btns button:hover
+{
+    text-decoration: underline;
+}
+
+.nav-menu
+{
+    float: left;
+}
+
+.footer
+{
+    height: 50px;
+    left: 0%;
+    bottom: 0%;
+    width: 100%;
+}
+
+.content
+{
+    background: #e6e6e6;
+    padding: 20px;
+}
+
+.post-input-field
+{
+    border: 1px solid #f2f2f2;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.url
+{
+    color: #00ff00;
+}
+
+#header-logo
+{
+    float: right;
+}
+
+#show-post-form
+{
+    text-align: center;
+}
+
+#center-form-post-div
+{
+    padding: 10px;
+    display: none;
+    text-align: center;
+}
+
+#create-post-btn
+{
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    background: #f2f2f2;
+    border: 0px;
+    padding: 4px;
+}
+
+#create-post-btn h2
+{
+    margin: 0px 0px;
+    padding: 0px;
+    font-weight: 200;
+    text-decoration: none;
+}
+
+#create-post-btn:hover
+{
+    text-decoration: underline;
+}
+
+#post-body
+{
+    background: #f2f2f2;
+    width: 282px;
+    height: 200px;
+}
+
+#post-name
+{
+    color: #00e600;
+}
